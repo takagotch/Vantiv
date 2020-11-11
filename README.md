@@ -1,4 +1,4 @@
-### o
+### Vantiv Integrated Payments
 ---
 
 
